@@ -1,4 +1,5 @@
-Summary:	framework for writing object oriented applications in emacs lisp
+Summary:	Framework for writing object oriented applications in emacs lisp
+Summary(pl):	Szkielet do pisania w emacs lispie aplikacji zorientowanych obiektowo
 Name:		xemacs-eieio-pkg
 %define 	srcname	eieio
 Version:	1.04
@@ -14,10 +15,16 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 EIEIO is a framework for writing object oriented applications in emacs
 lisp, and is a result of my taking various object oriented classes at
-work and my attempt to understand some of it better by implementing it.
-The real reason I started eieio is because someone in one of my classes
-said "I bet emacs can't do that!".  Well then, I just had to prove them
-wrong!
+work and my attempt to understand some of it better by implementing
+it. The real reason I started eieio is because someone in one of my
+classes said "I bet emacs can't do that!". Well then, I just had to
+prove them wrong!
+
+%description -l pl
+EIEIO to szkielet do pisania w emacs lispie aplikacji zorientowanych
+obiektowo. Jest wynikiem nauki programowania obiektowego, prób jego
+lepszego zrozumienia poprzez zaimplementowanie oraz potrzeby
+pokazania nieprawdziwo¶ci stwierdzenia "Emacs tego nie umie!".
 
 %prep
 %setup -q -c
