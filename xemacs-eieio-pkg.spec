@@ -3,7 +3,7 @@ Summary(pl):	Szkielet do pisania w emacs lispie aplikacji zorientowanych obiekto
 Name:		xemacs-eieio-pkg
 %define 	srcname	eieio
 Version:	1.05
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
