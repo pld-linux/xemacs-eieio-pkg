@@ -2,12 +2,12 @@ Summary:	Framework for writing object oriented applications in emacs lisp
 Summary(pl):	Szkielet do pisania w emacs lispie aplikacji zorientowanych obiektowo
 Name:		xemacs-eieio-pkg
 %define 	srcname	eieio
-Version:	1.04
+Version:	1.05
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	6504c1a9225576fd0140cba9962e191b
+# Source0-md5:	b31f8f71fc5afa41196954f04f955654
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Requires:	xemacs
