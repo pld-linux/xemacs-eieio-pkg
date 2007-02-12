@@ -1,5 +1,5 @@
 Summary:	Framework for writing object oriented applications in emacs lisp
-Summary(pl.UTF-8):   Szkielet do pisania w emacs lispie aplikacji zorientowanych obiektowo
+Summary(pl.UTF-8):	Szkielet do pisania w emacs lispie aplikacji zorientowanych obiektowo
 Name:		xemacs-eieio-pkg
 %define 	srcname	eieio
 Version:	1.05
