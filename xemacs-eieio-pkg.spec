@@ -6,7 +6,7 @@ Version:	1.05
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	b31f8f71fc5afa41196954f04f955654
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
